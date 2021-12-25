@@ -1,0 +1,12 @@
+/.idea/
+/datasets/
+/MQTTClient/.idea/
+/MQTTClient/META-INF/
+/RUL_ML/.idea/
+/RUL_ML/rul_models/
+/RUL_ML/dataset/
+/RUL_RTA/.idea/
+/RUL_RTA/checkpoints/
+/RUL_RTA/spark-warehouse/
+/**/*.class
+/**/*.jar

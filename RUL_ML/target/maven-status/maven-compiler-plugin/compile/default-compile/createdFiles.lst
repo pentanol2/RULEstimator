@@ -1,0 +1,14 @@
+model\Model.class
+com\devshop\sjob0\Collector.class
+com\devshop\sjob0\ModelFactory.class
+com\devshop\sjob0\ExploratoryDataAnalysis_bcp.class
+com\devshop\sjob0\Runner.class
+model\RegressionTree.class
+model\LinearRegressor.class
+com\devshop\sjob0\ExploratoryDataAnalysis.class
+com\devshop\sjob0\Preprocess.class
+com\devshop\sjob0\Runner_bcp.class
+model\test\ModelTester.class
+model\GBTRegression.class
+com\devshop\sjob0\RunFExctract.class
+model\RandomForestRegression.class
